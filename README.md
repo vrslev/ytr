@@ -2,7 +2,7 @@
 
 This is a CLI for Yandex's translate service. At some point I got tired of opening the website, so I made a CLI.
 
-https://user-images.githubusercontent.com/75225148/166159403-a018d890-f1c5-42df-bab3-1d57f991d573.mov
+https://user-images.githubusercontent.com/75225148/166160552-1e8846db-c52f-41ba-80e4-b5d28d4a5c79.mov
 
 ## Installation
 
