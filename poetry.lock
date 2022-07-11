@@ -258,7 +258,7 @@ testing = ["pytest", "pytest-benchmark"]
 
 [[package]]
 name = "pre-commit"
-version = "2.19.0"
+version = "2.20.0"
 description = "A framework for managing and maintaining multi-language pre-commit hooks."
 category = "dev"
 optional = false
@@ -427,7 +427,7 @@ testing = ["coverage (>=4)", "coverage-enable-subprocess (>=1)", "flaky (>=3)", 
 [metadata]
 lock-version = "1.1"
 python-versions = "~3.10"
-content-hash = "3b6a78e4e96f31e845d472b131aff4522aa1096cb2719250d2eac743d5959c85"
+content-hash = "b24e04f303f578b6100416e0d9626c8feb5cabd6f42b99d69373367a8783775a"
 
 [metadata.files]
 anyio = []
