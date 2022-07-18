@@ -391,7 +391,7 @@ python-versions = ">=3.7"
 
 [[package]]
 name = "typer"
-version = "0.5.0"
+version = "0.6.1"
 description = "Typer, build great CLIs. Easy to code. Based on Python type hints."
 category = "main"
 optional = false
@@ -427,7 +427,7 @@ testing = ["coverage (>=4)", "coverage-enable-subprocess (>=1)", "flaky (>=3)", 
 [metadata]
 lock-version = "1.1"
 python-versions = "~3.10"
-content-hash = "5a9beb2480d87b92e319314e00f12fcd63ff82f9c9082c2bb970a41bd43606a4"
+content-hash = "f67bf66ad718886b2930ff3dd2d96e9e76f836cb786fca61aa7e72f1060688e8"
 
 [metadata.files]
 anyio = [
@@ -623,8 +623,8 @@ tomli = [
     {file = "tomli-2.0.1.tar.gz", hash = "sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f"},
 ]
 typer = [
-    {file = "typer-0.5.0-py3-none-any.whl", hash = "sha256:a34409c0029ba7e48cb9e4f54c6400bf4158a6145b5dea32788e7a36ebbcb312"},
-    {file = "typer-0.5.0.tar.gz", hash = "sha256:4c285a5585c94d32c305444af934f0078b6a8ba91464f3f85807c91cd499d195"},
+    {file = "typer-0.6.1-py3-none-any.whl", hash = "sha256:54b19e5df18654070a82f8c2aa1da456a4ac16a2a83e6dcd9f170e291c56338e"},
+    {file = "typer-0.6.1.tar.gz", hash = "sha256:2d5720a5e63f73eaf31edaa15f6ab87f35f0690f8ca233017d7d23d743a91d73"},
 ]
 virtualenv = [
     {file = "virtualenv-20.14.1-py2.py3-none-any.whl", hash = "sha256:e617f16e25b42eb4f6e74096b9c9e37713cf10bf30168fb4a739f3fa8f898a3a"},
